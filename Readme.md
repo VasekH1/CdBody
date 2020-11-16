@@ -2,6 +2,10 @@
 ```powershell
 .\CdBody.ps1 -jmeno "prihlašovací jméno" -heslo "heslo"
 ```
-Testována kompatibilita s
+# Kompatibilita
 * Powershell 5.1
 * Powershell 7.1
+
+# Bezpečnostní upozornění
+Nikdy nespouštějte skripty, které předem pečlivě nezkontrolujete.
+Nikdy nezadávejte přihlašovací údaje do skriptů, které předem pečlivě nezkontrolujete.
