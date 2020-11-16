@@ -8,4 +8,5 @@
 
 # Bezpečnostní upozornění
 Nikdy nespouštějte skripty, které předem pečlivě nezkontrolujete.
+
 Nikdy nezadávejte přihlašovací údaje do skriptů, které předem pečlivě nezkontrolujete.
